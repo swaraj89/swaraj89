@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swaraj</h1>
-<h3 align="center">A passionate developer from India.</h3>
+<h3 align="center">A tinkerer based out of India.</h3>
 
 - 🔭 I’m currently working on **learning new programming languages.**
 
