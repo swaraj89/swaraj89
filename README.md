@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **learning new programming languages.**
 
-- 🌱 I’m currently learning **Python, AWS**
+- 🌱 I’m currently learning **Golang, AWS**
 
 - 👯 I’m looking to collaborate on **solving problems**
 
