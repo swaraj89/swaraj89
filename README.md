@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **hello@swarajpanigrahi.in**
 
-- 📄 Know about my experiences [swarajpanigrahi.in](swarajpanigrahi.in)
+- 📄 Know about my experiences @ [swarajpanigrahi.in](http://swarajpanigrahi.in)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
