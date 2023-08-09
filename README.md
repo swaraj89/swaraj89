@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Swaraj</h1>
 <h3 align="center">A tinkerer based out of India.</h3>
 
-- 🔭 I’m currently working on **learning new programming languages.**
+- 🔭 I’m currently **learning new programming languages.**
 
 - 🌱 I’m currently learning **Golang, AWS**
 
